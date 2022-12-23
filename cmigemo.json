@@ -6,6 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/mhatta/scoop-bucket/raw/main/cmigemo-1.3-mingw64-20221223.zip",
+	    "hash": "6c1fed95c6373b62f87b9afc25e251003ae09f52abca9eb78f24550e0793e0ce",
             "bin": "cmigemo-mingw64/bin/cmigemo.exe"
         }
     }
