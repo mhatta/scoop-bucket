@@ -1,7 +1,7 @@
 {
     "homepage": "https://github.com/oguna/cmigemo/",
     "description": "Migemo in Go.",
-    "license": "MIT",
+    "license": "MIT & GPLv3",
     "version": "20221227",
     "architecture": {
         "64bit": {
